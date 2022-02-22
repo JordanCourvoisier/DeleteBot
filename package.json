@@ -1,0 +1,17 @@
+{
+  "name": "deletebot",
+  "version": "1.0.0",
+  "description": "Discord bot that catalogues and deletes messages sent to a channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tatsumi Oga",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "sqlite3": "^5.0.2",
+    "verbose": "^0.2.3"
+  }
+}
